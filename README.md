@@ -14,3 +14,6 @@ This project implements a **Data-Backed NFT program** on the Solana blockchain u
 - `lib.rs`: Contains the core logic for the program.
 - `anchor.test.ts`: Unit tests for the program using Anchor's testing framework.
 - `client.ts`: Example client script to interact with the deployed program.
+
+  ## Tech Stack
+  Rust, Typescript Solana, Anchor, Solana playground ide
