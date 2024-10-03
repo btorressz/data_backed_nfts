@@ -1,6 +1,6 @@
 # data_backed_nfts
 
-This project implements a **Data-Backed NFT program** on the Solana blockchain using the **Anchor Framework**. The system allows the minting of NFTs that represent access to specific datasets, and it manages access control, leasing, and ownership transfer using **Program Derived Addresses (PDAs)**.
+This project implements a **Data-Backed NFT program** on the Solana blockchain using the **Anchor Framework**. The program allows the minting of NFTs that represent access to specific datasets, and it manages access control, leasing, and ownership transfer using **Program Derived Addresses (PDAs)**.
 **THIS PROJECT IS A PROTOTYPE**
 
 ## Features
